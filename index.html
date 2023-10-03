@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forward Masking</title>
+    <style>
+        /* CSS class for the masking effect */
+        .forward-mask {
+            display: inline-block;
+            overflow: hidden;
+            transition: opacity 0.5s ease-in-out;
+            opacity: 0;
+        }
+    </style>
+</head>
+<body>
+    <div id="products">
+        <h2 class="product-title">Product 1</h2>
+        <p class="product-description">This is a <span class="forward-mask">FLASH</span> description for Product 1.</p>
+        <h2 class="product-title">Product 2</h2>
+        <p class="product-description">Another <span class="forward-mask">FLASH</span> description for Product 2.</p>
+    </div>
+
+    <script src="assets/js/script.js"></script>
+</body>
+</html>
