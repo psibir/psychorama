@@ -15,6 +15,8 @@ Psychorama is a JavaScript-based web application that leverages the power of sub
 
 Forward masking, as used in Psychorama, involves replacing non-essential words in the content with masking terms of the same character count, making it a powerful tool for subliminal messaging. This subtle manipulation can influence user behavior, attention, and perception, making it valuable for a range of applications, including marketing and user experience optimization.
 
+![psychorama_diagram](assets/images/psychorama_diagram.png)
+
 ## Installation
 
 1. Clone the Psychorama repository to your local machine:
