@@ -1,6 +1,6 @@
 # Psychorama - Subliminal Forward Masking for Enhanced User Engagement
 
-Psychorama is a JavaScript-based web application that leverages the power of subliminal messaging through forward masking. By subtly influencing user perception, it primes users to be more receptive to specific keywords or messages within a web page. This technique is not only intriguing from a psychological perspective but also has practical applications in marketing and user engagement strategies.
+Psychorama is a JavaScript-based web application that leverages the power of subliminal messaging through (forward masking)[https://en.wikipedia.org/wiki/Visual_masking]. By subtly influencing user perception, it primes users to be more receptive to specific keywords or messages within a web page. This technique is not only intriguing from a psychological perspective but also has practical applications in marketing and user engagement strategies.
 
 ## Table of Contents
 
